@@ -1,2 +1,3 @@
-Clone the AutoML repository
+## Clone the AutoML repository
+
 `gh repo clone SarthakChawathe/AutoML`
