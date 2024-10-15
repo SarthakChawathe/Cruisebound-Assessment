@@ -1,0 +1,24 @@
+﻿,Description,Value
+0,Session id,4052
+1,Target,y
+2,Target type,Binary
+3,Target mapping,"no: 0, yes: 1"
+4,Original data shape,"(45211, 18)"
+5,Transformed data shape,"(45211, 50)"
+6,Transformed train set shape,"(31647, 50)"
+7,Transformed test set shape,"(13564, 50)"
+8,Numeric features,8
+9,Categorical features,9
+10,Preprocess,True
+11,Imputation type,simple
+12,Numeric imputation,mean
+13,Categorical imputation,mode
+14,Maximum one-hot encoding,25
+15,Encoding method,
+16,Fold Generator,StratifiedKFold
+17,Fold Number,10
+18,CPU Jobs,-1
+19,Use GPU,False
+20,Log Experiment,False
+21,Experiment Name,clf-default-name
+22,USI,817f
